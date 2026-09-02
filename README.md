@@ -1,4 +1,4 @@
-This is a working repository for my course titled "Advanced Topics in Forensic Chemistry". I use this repository to back up my "static" teaching material, and host the reveal.js presentations via github pages. Some key commands:
+This is a working repository for my course titled "Research Design and Forensic Statistics". I use this repository to back up my "static" teaching material, and host the reveal.js presentations via github pages. Some key commands:
 
 - To render a specific quarto markdown file : quarto render filename
 - To render all quarto markdown files within a folder (and sub directors): quarto render
