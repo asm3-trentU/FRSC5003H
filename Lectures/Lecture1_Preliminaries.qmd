@@ -1,0 +1,161 @@
+---
+title: "Course Preliminaries"
+date: ""
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    incremental: true
+    chalkboard: false
+    width: 1280
+    height: 720
+    margin: 0.08
+    embed-resources: true
+  # beamer:
+  #   theme: metropolis
+  #   aspectratio: 169
+  #   incremental: true
+  #   embed-resources: true
+  # pptx:
+  #   slide-level: 2
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## Course Background
+
+
+::: {.notes}
+
+:::
+
+## Course Facilitators
+
+::: {.notes}
+
+:::
+
+
+
+## Peer Notetaking Support
+
+::: {.notes}
+
+
+:::
+
+## Course Structure
+
+::: {.notes}
+
+
+:::
+
+
+## Delverables
+
+::: {.notes}
+
+
+:::
+
+
+## Introduction Quiz
+
+
+::: {.notes}
+
+
+:::
+
+## Content Quizzes (x 10)
+
+::: {.notes}
+
+
+:::
+
+## Lab Tests
+
+::: {.notes}
+
+:::
+
+## Annotated Bibliography 
+
+
+::: {.notes}
+
+:::
+
+## Research Proposal
+
+::: {.notes}
+
+:::
+
+## Data Presentation
+
+
+::: {.notes}
+
+:::
+
+
+## Article Critique
+
+::: {.notes}
+
+:::
+
+## Final Exam
+
+::: {.notes}
+
+:::
+
+
+## Grades
+
+::: {.notes}
+
+:::
+
+
+
+## Course Policy
+
+::: {.notes}
+
+:::
+
+
+
+###
+::: {.center}
+A quick tour of blackboard
+:::
+
+::: {.notes}
+
+:::
+
+
+## How to get the most out of this course
+
+
+## On Epistemology
+
+## History of scientific development
+
+## The scientific  method
+
+## What's so unique about forensic science
+
+##
+::: {.center}
+Good luck with content quiz 1!<br>(Due September 17 at 11:59 PM)
+:::

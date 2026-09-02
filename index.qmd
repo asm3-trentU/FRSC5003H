@@ -1,0 +1,17 @@
+---
+title: "FRSC 4730H - Advanced Topics in Forensic Chemistry"
+author: Arun S. Moorthy
+---
+
+Welcome to the FRSC 4730H course backend webpage. These are the presentations we use for lecture. Most lectures will have additional demonstrations/visuals that are displayed outside of the main "slide deck". 
+
+## Lectures
+- [1: Course admin + Review of forensic chemistry](Lectures/Lecture1_Preliminaries.html)
+- [2: What is a measurement](Lectures/Lecture2_Measurements.html)
+- [3: Emerging analytical technicques in forensic chemistry](Lectures/Lecture3_Techniques.html)
+- [4: Emerging Applications of chemistry in forensic science](Lectures/Lecture4_Applications.html)
+- [5: An introduction to (or refresher on) programming in R](Lectures/Lecture5_R.html)
+- [6: Similarities and differences](Lectures/Lecture6_SimDiffs.html)
+- [7: Projections and dimensionality reduction](Lectures/Lecture7_Projections.html)
+- [8: Representing chemical structure](Lectures/Lecture8_ChemStructure.html)
+- [9: A numerical exploration of molecular space](Lectures/Lecture9_NumExploration.html)
