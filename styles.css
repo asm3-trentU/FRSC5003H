@@ -1,9 +1,36 @@
-.reveal{
+.reveal {
   font-family: Aptos, Arial, Helvectica, sans-serif;
+  background-color: #ffffff;
+  color: #222222;
 }
 
 .reveal h1,
 .reveal h2,
 .reveal h3 {
   font-family: Aptos, Arial, Helvectica, sans-serif;
+  color: #222222;
 }
+
+/* Night mode */
+.reveal.night-mode {
+  font-family: Aptos, Arial, Helvectica, sans-serif;
+  background-color: #111111;
+  color: #eeeeee;
+}
+
+
+.reveal-viewport:has(.reveal.night-mode) {
+  background-color: #111111 !important;
+}
+
+.reveal.night-mode h1,
+.reveal.night-mode h2,
+.reveal.night-mode h3 {
+  font-family: Aptos, Arial, Helvectica, sans-serif;
+  color: #ffffff;
+}
+
+.reveal.night-mode a {
+  color: #7db7ff;
+}
+
