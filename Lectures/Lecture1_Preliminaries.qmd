@@ -21,6 +21,13 @@ execute:
 
 ## Course Background
 
+- **FRSC 5003H** is a graduate course in the MScFS program, that:
+    - covers topics of importance to conducting effective research
+    - allows students to **practice** applying skills in preparation for life outside of school<br><br>
+    
+- Primary areas of emphasis are research design, critical thinking, and basic data analysis
+
+- Secondary area of emphasis is advanced data analysis; reading and writing source code in the **R programming language**
 
 ::: {.notes}
 
@@ -47,3 +54,24 @@ document.addEventListener("DOMContentLoaded", function() {
   document.body.appendChild(button);
 });
 </script>
+
+
+## Instructor
+
+- **Name**: Dr. Arun Moorthy (rhymes with *maroon earthy*)
+- **Position**: Assistant Professor, Forensic Science
+- **Research Areas:** Computational Methods, Forensic Chemistry <br><br>
+- **Office**: DNA B108.11
+- **Office Hours**: Tuesday 9am to 11am
+- **Email**: arunmoorthy@trentu.ca (usually respond within 48 hours)
+
+## Course Structure
+
+- **Most Lectures**:
+    - 45-50 minutes for presentation about lecture topic; rest of the time to discuss lecture topics and other topics of interest, work on assignments/activities <br><br>
+    
+- **Most Seminars**:
+    - **OPEN WORK SESSIONS**: Time to work on research activities, study for test, read optional papers, prepare for your placement, etc. <br><br>
+    
+- **All lectures will be live streamed and recorded.**
+

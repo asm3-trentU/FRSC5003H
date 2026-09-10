@@ -8,7 +8,15 @@
 .reveal h2,
 .reveal h3 {
   font-family: Aptos, Arial, Helvectica, sans-serif;
+  font-size: 125%;
   color: #222222;
+}
+
+.reveal ul ul, 
+.reveal ul ol, 
+.reveal ol ul, 
+.reveal ol ol {
+  font-size: 0.85em; /* Adjust percentage or em as needed */
 }
 
 /* Night mode */
