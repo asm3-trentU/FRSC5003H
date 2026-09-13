@@ -2,9 +2,23 @@
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#course-background",
     "href": "Lectures/Lecture1_Preliminaries.html#course-background",
-    "title": "Course Preliminaries",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
     "section": "Course Background",
     "text": "Course Background\n\nFRSC 5003H is a graduate course in the MScFS program, that:\n\ncovers topics of importance to conducting effective research\nallows students to practice applying skills in preparation for life outside of school\n\nPrimary areas of emphasis are research design, critical thinking, and basic data analysis\nSecondary area of emphasis is advanced data analysis; reading and writing source code in the R programming language"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#instructor",
+    "href": "Lectures/Lecture1_Preliminaries.html#instructor",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Instructor",
+    "text": "Instructor\n\nName: Dr. Arun Moorthy (rhymes with maroon earthy)\nPosition: Assistant Professor, Forensic Science\nResearch Areas: Computational Methods, Forensic Chemistry \nOffice: DNA B108.11\nOffice Hours: Tuesday 9am to 11am\nEmail: arunmoorthy@trentu.ca (usually respond within 48 hours)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#course-structure",
+    "href": "Lectures/Lecture1_Preliminaries.html#course-structure",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Course Structure",
+    "text": "Course Structure\n\nMost Lectures:\n\n45-50 minutes for presentation about lecture topic; rest of the time to discuss lecture topics and other topics of interest, work on assignments/activities \n\nMost Seminars:\n\nOPEN WORK SESSIONS: Time to work on research activities, study for test, read optional papers, prepare for your placement, etc. \n\nAll lectures will be live streamed and recorded."
   },
   {
     "objectID": "LICENSE.html",
@@ -28,17 +42,241 @@
     "text": "Lectures\n\n1: Course Admin + Assignment Description"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#instructor",
-    "href": "Lectures/Lecture1_Preliminaries.html#instructor",
-    "title": "Course Preliminaries",
-    "section": "Instructor",
-    "text": "Instructor\n\nName: Dr. Arun Moorthy (rhymes with maroon earthy)\nPosition: Assistant Professor, Forensic Science\nResearch Areas: Computational Methods, Forensic Chemistry \nOffice: DNA B108.11\nOffice Hours: F26 - Tuesday 9am to 11am; W27 - Tuesday 9am to 11am\nEmail: arunmoorthy@trentu.ca (usually respond within 48 hours)"
+    "objectID": "Lectures/Lecture1_Preliminaries.html#assessments",
+    "href": "Lectures/Lecture1_Preliminaries.html#assessments",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Assessments",
+    "text": "Assessments\nTest 1: Fundamentals in Probability and Statistics\n\nGoal: Develop mastery of basic concepts in probability and statistics\nTest will be open-notes and run through blackboard; 30 questions that are randomly selected from carefully designed pools\n\nquestions are revealed one at a time, and there is no backtracking\n60-minute time limit\n\nThere will be a practice test (10 questions, 20-minute time limit) available for you via blackboard; you can attempt it up to three times\nThere will be practice problem sets (with no time limit) available to you via blackboard"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#course-structure",
-    "href": "Lectures/Lecture1_Preliminaries.html#course-structure",
-    "title": "Course Preliminaries",
-    "section": "Course Structure",
-    "text": "Course Structure\n\nMost Lectures:\n\n45-50 minutes for presentation about lecture topic; rest of the time to discuss lecture topics and other topics of interest, work on assignments/activities \n\nMost Seminars:\n\nOPEN WORK SESSIONS: Time to work on research activities, study for test, read optional papers, prepare for your placement, etc. \n\nAll lectures will be live streamed and recorded."
+    "objectID": "Lectures/Lecture1_Preliminaries.html#assessments-1",
+    "href": "Lectures/Lecture1_Preliminaries.html#assessments-1",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Assessments",
+    "text": "Assessments\nTest 2: Advanced Topics in Data Analysis\n\nGoal: Develop comfort with more advanced topics and methods in data analysis\nTest will be open-notes and run through blackboard; 3 “assignments” that are randomly selected from carefully designed pools\n\nassignments are revealed all at once\n100-minute time limit\n\nThere will be practice assignments (with no time limits) available to you via blackboard"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#assessments-2",
+    "href": "Lectures/Lecture1_Preliminaries.html#assessments-2",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Assessments",
+    "text": "Assessments\nResearch Activity 1 - Statement of Work\n\nGoal: practice developing and writing an SOW\nYou will each receive a rough project description and the name of a client; you will write an SOW for your client’s project\nThis is an individual assignment\nChallenges:\n\nDefining the problem / scoping the work\nSelecting methods\nOutlining realistic deliverables / setting expectations\nCOMMUNICATING WITH CLIENT"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#assessments-3",
+    "href": "Lectures/Lecture1_Preliminaries.html#assessments-3",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Assessments",
+    "text": "Assessments\nResearch Activity 2 - Research Proposal\n\nGoal: Practicing developing and writing a research proposal as a member of a research team.\nA “Call for Proposal” will be available on Blackboard, as well a group membership list\nChallenges:\n\nDefining the problem / Demonstrating or motivating the problem\nDetermining methods / Determining potential external reviewers\nOutlining realistic deliverables / setting expectations\nWorking as a group"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#assessments-4",
+    "href": "Lectures/Lecture1_Preliminaries.html#assessments-4",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Assessments",
+    "text": "Assessments\nResearch Activity 3 - “Desk Study” (continuing from 5001H)\n\nGoal: Give you the time and space to fill a gap in your knowledge and dive deep into the literature of a topic that interests YOU, building your skills in research. Allow you to share your insights through long-form technical writing and a poster presentation, building your skills in communication\nYour MScFS “magnum opus”\nChallenges:\n\nChoosing a topic / scoping a topic\nComprehensive reading\nStaying motivated / being disciplined"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#a-note-on-templates-and-resources",
+    "href": "Lectures/Lecture1_Preliminaries.html#a-note-on-templates-and-resources",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "A note on templates and resources",
+    "text": "A note on templates and resources\n\nI will include several templates and resources on the course Blackboard that you can use as guidance for your assignments–do not feel obligated to use these templates\nPlease let me know if you think of a useful template for other documents that are not in the Resources folder"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#policy-see-syllabus-for-details",
+    "href": "Lectures/Lecture1_Preliminaries.html#policy-see-syllabus-for-details",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Policy (see syllabus for details)",
+    "text": "Policy (see syllabus for details)\n\nAttendance: Recommended. But do what you need to do.\nDue dates: All assignments must be submitted prior to their due dates to be considered for grades.\nAI use: Use it to help you learn concepts, but understand the risks."
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#section",
+    "href": "Lectures/Lecture1_Preliminaries.html#section",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "",
+    "text": "A quick tour of the course blackboard"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#section-1",
+    "href": "Lectures/Lecture1_Preliminaries.html#section-1",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "",
+    "text": "The craft of research"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#what-is-research",
+    "href": "Lectures/Lecture1_Preliminaries.html#what-is-research",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "What is research?",
+    "text": "What is research?\n\nActivities undertaken to help update our knowledge and/or improve our understanding of a subject\n\nLearning is personal: we carry out learning activites (e.g., taking classes, reading) to extend or improve our personal understanding of a subject\nResearch is social: we carry out research activities (e.g., asking questions, designing and coducting studies, publishing papers) to extend or improve our communities understanding of a subject\n\n\n\nCue: “I learn to things that I don’t know. I research things (to ask and answer questions) that no one knows.”"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#reasons-people-conduct-research",
+    "href": "Lectures/Lecture1_Preliminaries.html#reasons-people-conduct-research",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Reasons people conduct research",
+    "text": "Reasons people conduct research\n\nDepth of knowledge: desire a deep understanding of a subject matter; being or becoming an expert\nDiscovery / Creative outlet: enjoy contemplating questions / solving problems\nService to society: generating knowledge and insights that can improve downstream service activities/policy\nService to commerce: generating knowledge and insights that can improve systems/processes/management\nDegree requirements: all graduate programs have a research component."
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#methods-vs-methodology",
+    "href": "Lectures/Lecture1_Preliminaries.html#methods-vs-methodology",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Methods vs Methodology",
+    "text": "Methods vs Methodology\n\nResearch Methods: the specific tools and approaches used to complete a research project\n\nDocumentation of research methods are an important part of writing a research paper, thesis, case report, etc.\nNeeded for reproducibility\n\nResearch Methodology: the study of methods; the general strategies and approaches for conducting research\n\n“The craft…”"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#general-steps-in-research-methodology",
+    "href": "Lectures/Lecture1_Preliminaries.html#general-steps-in-research-methodology",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "General steps in research methodology",
+    "text": "General steps in research methodology\n\nProblem formulation: The goal of this step is to identify one or more “robust” (tractable, feasible) research questions that are worth pursuing. \nExperimentation and analysis: The goal in this step is to design specific studies (experiments, surveys, etc.) and analytical methods that best answer research questions \nDissemination: The goal at this step is to present your data and/or insights so that others in the community can benefit from the work."
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#the-professional-researchers-toolbox",
+    "href": "Lectures/Lecture1_Preliminaries.html#the-professional-researchers-toolbox",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "The professional researcher’s toolbox",
+    "text": "The professional researcher’s toolbox\n\nLiterature databases\nReference manager\nWord Processor (or other writing tool)\nImage Editor\nSpreadsheets\nStatistical Analysis Software"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#literature-databases",
+    "href": "Lectures/Lecture1_Preliminaries.html#literature-databases",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Literature Databases",
+    "text": "Literature Databases\n\nNew developments in science are traditionally disseminated through written communications\n\nJournal articles (research, reviews, short communications, technical notes)\nConference proceedings\nTechnical Reports\nEdited collections\nPre-print (unofficially published) manuscripts\n\nParticularly interesting developments may also result in press releases"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#literature-databases-1",
+    "href": "Lectures/Lecture1_Preliminaries.html#literature-databases-1",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Literature Databases",
+    "text": "Literature Databases\n\nGeneral purpose databases:\n\nGoogle scholar\nPubMed\nEBSCO\nJSTOR \n\nField specific databases: https://guides.lib.trentu.ca/az/databases\n\nhttps://forensiclibrary.org/home (they have a mailing list with daily updates)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#reference-managers",
+    "href": "Lectures/Lecture1_Preliminaries.html#reference-managers",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Reference Managers",
+    "text": "Reference Managers\n\nA tool that can help with organizing and working with references \nSome useful software reference managers\n\nZotero (Free, Arun’s Choice)\nMendeley (Free)\nEndNote(Paid)\nPaperpile(Paid)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#word-processors",
+    "href": "Lectures/Lecture1_Preliminaries.html#word-processors",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Word processors",
+    "text": "Word processors\n\nA tool that allows you to create and edit written documents\nExample software word processors:\n\nMS Word (Paid, Arun’s 2nd Choice)\nGoogle Docs (Free)\nWPS Office (Free)\nWord Editor (Free)\nCanva Docs (Paid)\nText editor with a markup language (Free, Arun’s 1st Choice)\n\nLatex\nMarkdown\nQuarto"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#image-editors",
+    "href": "Lectures/Lecture1_Preliminaries.html#image-editors",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Image Editors",
+    "text": "Image Editors\n\nA tools that allow you to manipulate an image\nuseful for creating schematics and flow charts, presentations; can be used to markup and annotate plots and figures\nExample software image editors:\n\nPhotoshop (Paid)\nGIMP (Free, Arun’s Choice)\nSketchUp (Paid)\nPowerpoint (Paid, Arun’s 2nd Choice)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#spreadsheets",
+    "href": "Lectures/Lecture1_Preliminaries.html#spreadsheets",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Spreadsheets",
+    "text": "Spreadsheets\n\nA tool that allows you to track and organize data\nExample software spreadsheets:\n\nMS Excel (Paid, Arun’s Choice)\nGoogle Sheets (Free)\nApple Numbers (Paid)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#statistical-software-packages",
+    "href": "Lectures/Lecture1_Preliminaries.html#statistical-software-packages",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Statistical Software Packages",
+    "text": "Statistical Software Packages\n\nA software tool with several data analysis and statistics procedures implemented\n\nMS Excel w/data analysis toolk pack (Paid)\nSPSS (Paid)\nSAS (Paid)\nMinitab (Paid)\nJASP (Free, Arun’s interested in learning more)\nR (Free, Arun’s 1st choice)\n\nSome data analysis procedures are beyond what is available in software tools; requires custom code\n\nInterpreted language (e.g., R, Python); compiled language (e.g., C, Fortran)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#literature-database",
+    "href": "Lectures/Lecture1_Preliminaries.html#literature-database",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Literature Database",
+    "text": "Literature Database\n\nNew developments in science are traditionally disseminated through written communications\n\nJournal articles (research, reviews, short communications, technical notes)\nConference proceedings\nTechnical Reports\nEdited collections\nPre-print (unofficially published) manuscripts\n\nParticularly interesting developments may also result in press releases"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#literature-database-1",
+    "href": "Lectures/Lecture1_Preliminaries.html#literature-database-1",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Literature Database",
+    "text": "Literature Database\n\nGeneral purpose databases:\n\nGoogle scholar\nPubMed\nEBSCO\nJSTOR \n\nField specific databases: https://guides.lib.trentu.ca/az/databases\n\nhttps://forensiclibrary.org/home (they have a mailing list with daily updates)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#reference-manager",
+    "href": "Lectures/Lecture1_Preliminaries.html#reference-manager",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Reference Manager",
+    "text": "Reference Manager\n\nA tool that can help with organizing and working with references \nSome useful software reference managers\n\nZotero (Free, Arun’s Choice)\nMendeley (Free)\nEndNote(Paid)\nPaperpile(Paid)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#word-processor",
+    "href": "Lectures/Lecture1_Preliminaries.html#word-processor",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Word processor",
+    "text": "Word processor\n\nA tool that allows you to create and edit written documents\nExample software word processors:\n\nMS Word (Paid, Arun’s 2nd Choice)\nGoogle Docs (Free)\nWPS Office (Free)\nWord Editor (Free)\nCanva Docs (Paid)\nText editor with a markup language (Free, Arun’s 1st Choice)\n\nLatex\nMarkdown\nQuarto"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#image-editor",
+    "href": "Lectures/Lecture1_Preliminaries.html#image-editor",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Image Editor",
+    "text": "Image Editor\n\nA tool that allow you to manipulate an image\nUseful for creating schematics and flow charts, presentations; can be used to annotate plots and figures\nExample software image editors:\n\nPhotoshop (Paid)\nGIMP (Free, Arun’s Choice)\nSketchUp (Paid)\nPowerpoint (Paid, Arun’s 2nd Choice)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#statistical-software",
+    "href": "Lectures/Lecture1_Preliminaries.html#statistical-software",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Statistical Software",
+    "text": "Statistical Software\n\nA software tool with several data analysis and statistics procedures implemented\n\nMS Excel w/data analysis tool pack (Paid)\nSPSS, SAS, Minitab (Paid)\nJASP (Free, Arun’s interested in learning more)\nR (Free, Arun’s 1st choice)\n\nSome data analysis procedures are beyond what is available in software tools; requires custom code\n\nInterpreted language (e.g., R, Python); compiled language (e.g., C, Fortran)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#section-3",
+    "href": "Lectures/Lecture1_Preliminaries.html#section-3",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "",
+    "text": "“Research is formalized curiosity.It is poking and prying with a purpose.” - Zora Neale Hurston"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#general-steps-in-the-craft-of-research",
+    "href": "Lectures/Lecture1_Preliminaries.html#general-steps-in-the-craft-of-research",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "General steps in the craft of research",
+    "text": "General steps in the craft of research\n\nProblem formulation: The goal of this step is to identify one or more “robust” (tractable, feasible) research questions that are worth pursuing. \nExperimentation and analysis: The goal in this step is to design specific studies (experiments, surveys, etc.) and analytical methods that best answer research questions \nDissemination: The goal at this step is to present your data and/or insights so that others in the community can benefit from the work."
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#centerthe-craft-of-research",
+    "href": "Lectures/Lecture1_Preliminaries.html#centerthe-craft-of-research",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "{.center}[The craft of research]",
+    "text": "{.center}[The craft of research]"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#section-2",
+    "href": "Lectures/Lecture1_Preliminaries.html#section-2",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "",
+    "text": "“Research is formalized curiosity. It is poking and prying with a purpose.”- Zora Neale Hurston"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#center-the-craft-of-research",
+    "href": "Lectures/Lecture1_Preliminaries.html#center-the-craft-of-research",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "{.center} [The craft of research]",
+    "text": "{.center} [The craft of research]"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#summary",
+    "href": "Lectures/Lecture1_Preliminaries.html#summary",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Summary",
+    "text": "Summary\n\nResearch activities are undertaken to help update our knowledge and/or improve our understanding of a subject\nThere are several reasons why people conduct research\nYour “craft” is your methodology\n\nimproving your ability to formulate good problems/questions, design studies and analyze data, and communicate your results takes time and practice\n\nThere are several general tools that a researcher should be comfortable using (in addition to their field specific tools)\n\nimproving skills with the tools takes time and practice"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#section-4",
+    "href": "Lectures/Lecture1_Preliminaries.html#section-4",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "",
+    "text": "Introducing your M.Sc.F.S. Desk Study"
   }
 ]
