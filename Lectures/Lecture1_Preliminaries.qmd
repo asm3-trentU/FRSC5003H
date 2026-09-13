@@ -221,10 +221,10 @@ The craft of research
 ## Literature Database
 
 - General purpose databases:
-    - Google scholar
-    - PubMed
-    - EBSCO
-    - JSTOR <br><br>
+    - [Google scholar](https://scholar.google.ca/intl/en/scholar/about.html){target="_blank"}
+    - [PubMed](https://pubmed.ncbi.nlm.nih.gov/about/){target="_blank"}
+    - [EBSCO](https://about.ebsco.com/about/mission){target="_blank"}
+    - [JSTOR](https://about.jstor.org/){target="_blank"} <br><br>
 - Field specific databases: [https://guides.lib.trentu.ca/az/databases](https://guides.lib.trentu.ca/az/databases){target="_blank"}
     - [https://forensiclibrary.org/home](https://forensiclibrary.org/home){target="_blank"}  (they have a mailing list with daily updates)
     
@@ -243,15 +243,14 @@ The craft of research
 - A tool that allows you to create and edit written documents
 
 - Example software word processors:
-    - MS Word (Paid, Arun's 2nd Choice)
-    - Google Docs (Free)
-    - WPS Office (Free)
-    - Word Editor (Free)
-    - Canva Docs (Paid)
+    - [Microsoft Word](https://support.microsoft.com/en-us/word/word-for-new-users){target="_blank"} (Paid, Arun's 2nd Choice)
+    - [Google Docs](https://support.google.com/docs/answer/7068618?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"} (Free)
+    - [Kingsoft WPS Writer](https://www.wps.com/academy/a-step-by-step-guide-to-wps-office/about-wps/1872900/){target="_blank"} (Free)
+    - [Canva Docs](https://www.canva.com/help/about-canva-docs/){target="_blank"} (Paid)
     - Text editor with a markup language (Free, Arun's 1st Choice)
-        - Latex 
-        - Markdown 
-        - Quarto 
+        - [Latex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes){target="_blank"} 
+        - [Markdown](https://www.markdownguide.org/getting-started/){target="_blank"} 
+        - [Quarto](https://quarto.org/docs/get-started/){target="_blank"} 
 
         
 ## Image Editor
@@ -259,10 +258,10 @@ The craft of research
 - A tool that allow you to manipulate an image
 - Useful for creating schematics and flow charts, presentations; can be used to annotate plots and figures
 - Example software image editors:
-    - Photoshop (Paid)
-    - GIMP (Free, Arun's Choice)
-    - SketchUp (Paid)
-    - Powerpoint (Paid, Arun's 2nd Choice)
+    - [Photoshop](https://www.adobe.com/products/photoshop/how-to-use.html){target="_blank"} (Paid)
+    - [GIMP](https://www.gimp.org/){target="_blank"} (Free, Arun's Choice)
+    - [SketchUp](https://sketchup.trimble.com/en/plans-and-pricing/sketchup-ai?utm_source=google&utm_medium=paid_search&utm_campaign=SU_Brand_Search_Brand+Top+Terms+Exact_NORAM&gclsrc=aw.ds&gad_source=1&gad_campaignid=20572302136&gbraid=0AAAAADvM7aZwe8-ikGkuvQtEf4mzj-pJZ&gclid=Cj0KCQjwk5nVBhDiARIsAHNGqadN7gSC1GWUlZMHtLY_uwTN6TnU5jNknn-BYswjI3P_-fGkWZFrU2caAp09EALw_wcB){target="_blank"} (Paid)
+    - [Microsoft Powerpoint](https://tech.yahoo.com/computing/articles/edit-photos-pro-powerpoint-133016713.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGfaN0Z5iCOwD1JFoZ6aJNwXL3QBubSvCnV49jB5isxG3xgpQb8qMivyppFq-1LTWa3IdVfQcfF5cLJSA2dsjVc6s7M4CZfI0VqcWJYHLWlcqvKupgVvvYBA-Zny0WT0QpX5a9zU8Xl3q95j1E2JAz09zLdGHpbZ_XHvLv72MoGJ){target="_blank"} (Paid, Arun's 2nd Choice)
     
 ## Spreadsheets
 
