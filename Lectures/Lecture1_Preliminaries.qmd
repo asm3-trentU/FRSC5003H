@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", function() {
 - **Most Seminars**:
     - **OPEN WORK SESSIONS**: Time to work on research activities, study for test, read optional papers, prepare for your placement, etc. <br><br>
     
-- **All lectures will be live streamed and recorded.**
+- **All lectures with software demonstrations will be recorded.**
 
 ## Assessments
 
@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function() {
 **Research Activity 2** - Research Proposal 
 
 - Goal: Practicing developing and writing a research proposal **as a member of a research team**.
-- A "Call for Proposal" will be available on Blackboard, as well a group membership list
+- A "Call for Proposal" will be available on Blackboard, as well as assigned teams
 - Challenges: 
     - Defining the problem / Demonstrating or motivating the problem
     - Determining methods / Determining potential external reviewers
@@ -126,15 +126,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
 **Research Activity 3** - "Desk Study" (continuing from 5001H)
 
-- Goal: Give you the time and space to fill a gap in your knowledge and dive deep into the literature of a topic that interests YOU, building your skills in research. Allow you to share your insights through long-form technical writing and a poster presentation, building your skills in communication
+- Goal: Give you the time and space to dive deep into the publicly available information of a question/topic that interests YOU, building your skills in research. Allow you to share your insights through long-form technical writing and a poster presentation, building your skills in communication
 - Your M.Sc.F.S. "[magnum opus](https://www.merriam-webster.com/dictionary/magnum%20opus){target="_blank"}"
 
 - Challenges:
-    - Choosing a topic / scoping a topic
-    - Comprehensive reading
+    - Coming up with a topic / scoping your question
+    - Comprehensive reading / finding information
     - Staying motivated / being disciplined
-    
-
     
 ## A note on templates and resources
 - I will include several templates and resources on the course Blackboard that you can use as guidance for your assignments--do not feel obligated to use these templates<br><br>
@@ -142,9 +140,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Policy (see syllabus for details)
 
-- **Attendance:** Recommended. But do what you need to do.<br><br>
-- **Due dates:** All assignments must be submitted prior to their due dates to be considered for grades.<br><br>
-- **AI use:** Use it to help you learn concepts, but understand the risks.
+::: {.nonincremental}
+- **Attendance:** Same as 5001H
+- **Due dates:** Same as 5001H
+- **AI use:** Same as 5001H
+:::
 
 ## {.center}
 
@@ -160,22 +160,17 @@ The craft of research
 
 ## What is research?
 
-- Activities undertaken to help update our knowledge and/or improve our understanding of a subject<br>
+- Any activity undertaken to help update our knowledge and/or improve our understanding of a subject<br><br>
 
-    - **Learning is personal:** we carry out learning activites (e.g., taking classes, reading) to extend or improve our personal understanding of a subject
-    - **Research is social:** we carry out research activities (e.g., asking questions, designing and coducting studies, publishing papers) to extend or improve our communities understanding of a subject<br><br>
+    - **Learning:** the answers are known (or thought to be known)
+    - **Research:** the answers are unknown (or thought to be unknown)
 
-::: {.fragment}
-*Cue: "I learn to things that I don't know. I research things (to ask and answer questions) that no one knows."*
-:::
 
 ## Reasons people conduct research
 
-- **Depth of knowledge:** desire a deep understanding of a subject matter; being or becoming an expert
-- **Discovery / Creative outlet:** enjoy contemplating questions / solving problems
-- **Service to society:** generating knowledge and insights that can improve downstream service activities/policy
-- **Service to commerce:** generating knowledge and insights that can improve systems/processes/management
-- **Degree requirements:** all graduate programs have a research component.
+- **Depth of knowledge:** need bleeding-edge understanding of a subject matter; are (or desire to be) an expert
+- **Solving problems:** need deeper understanding of a subject matter (and its limitations) in order to solve a problem
+- **Making decision:** need deeper understanding of a subject matter (and its limitations) in order to make justifiable decisions
 
 ## Methods vs Methodology
 
@@ -247,7 +242,7 @@ The craft of research
     - [Google Docs](https://support.google.com/docs/answer/7068618?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"} (Free)
     - [Kingsoft WPS Writer](https://www.wps.com/academy/a-step-by-step-guide-to-wps-office/about-wps/1872900/){target="_blank"} (Free)
     - [Canva Docs](https://www.canva.com/help/about-canva-docs/){target="_blank"} (Paid)
-    - Text editor with a markup language (Free, Arun's 1st Choice)
+    - Text editor with a markup language (Free, Arun's Choice)
         - [Latex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes){target="_blank"} 
         - [Markdown](https://www.markdownguide.org/getting-started/){target="_blank"} 
         - [Quarto](https://quarto.org/docs/get-started/){target="_blank"} 
@@ -267,24 +262,24 @@ The craft of research
 
 - A tool that allows you to track and organize data
 - Example software spreadsheets:
-    - MS Excel (Paid, Arun's Choice)
-    - Google Sheets (Free)
-    - Apple Numbers (Paid)
+    - [MS Excel](https://support.microsoft.com/en-us/excel/basic-tasks-in-excel){target="_blank"} (Paid, Arun's Choice)
+    - [Google Sheets](https://support.google.com/a/users/answer/9282959?hl=en){target="_blank"} (Free)
+    - [Apple Numbers](https://support.apple.com/en-ca/guide/numbers/tan398cb0564/mac){target="_blank"} (Paid)
     
 ## Statistical Software 
 
 - A software tool with several data analysis and statistics procedures implemented
-  - MS Excel w/data analysis tool pack (Paid)
-  - SPSS, SAS, Minitab (Paid)
-  - JASP (Free, Arun's interested in learning more)
-  - R (Free, Arun's 1st choice)
+  - [MS Excel w/data analysis tool pack](https://www.excel-easy.com/data-analysis.html#google_vignette){target="_blank"} (Paid)
+  - [SPSS](https://www.spss-tutorials.com/basics/){target="_blank"}, [SAS](https://guides.libraries.psu.edu/c.php?g=1493530&p=11153009){target="_blank"}, [Minitab](https://www.minitab.com/en-us/products/minitab/quick-start/){target="_blank} (Paid)
+  - [JASP](https://jasp-stats.org){target="_blank"} (Free, Arun's interested in learning more)
+  - [R](https://www.r-project.org){target="_blank"} (Free, Arun's Choice)
   
 - Some data analysis procedures are beyond what is available in software tools; requires custom code
     - Interpreted language (e.g., R, Python); compiled language (e.g., C, Fortran)
     
 ## Summary
 
-- Research activities are undertaken to help update our knowledge and/or improve our understanding of a subject<br>
+- Research is any activity undertaken to help update our knowledge and/or improve our understanding of a subject<br>
 - There are several reasons why people conduct research
 - Your "craft" is your methodology
     - improving your ability to formulate good problems/questions, design studies and analyze data, and communicate your results takes time and practice
@@ -302,4 +297,67 @@ The craft of research
 ## {.center}
 ::: {.text-center}
 Introducing your M.Sc.F.S. Desk Study
+:::
+
+## What is a desk study?
+- The term *desk study* describes research that one can complete from a desk
+
+    - Reviewing published literature (literature review)
+    - Analyzing existing data sets (exploratory data analysis, meta-analysis) <br>
+    - Examining government/public records, reports
+    - Press/News articles
+    - Product description, online advertisements
+    - Social media posts, Reddit...
+    - Maps, images, other time-stamped online activities...<br><br>
+
+::: {.notes}  
+- Challenges: verifying credibility of information, drawing conclusions
+   "What is something you can investigate from your computer, without collecting new data?"
+:::
+ 
+## Why do a desk study?
+
+1. Because this will help you develop/practice important skills <br><br>
+2. Because you have an opportunity to do what you want(ish)...<br><br>
+3. Because you will have accomplished something really personal, and have awesome outputs that you can share at the end of 8 months
+
+## How do you start a desk study?
+
+- Start with a general question. Explore the topic.
+- Develop a more specific question. Explore the topic.
+- Develop a more refined question. Explore the topic ... <br><br>
+
+    - September/October: Read (and document); be open to ideas 
+    - November: Reflect on the question(s) that you want to explore
+    - December-March: Investigate your question(s), from your desk
+    - April: Share your findings
+    
+::: {.notes}
+- Your question will help dictate what "evidence" you need to explore
+- Your evidence will help dictate what "analysis" needs to be done
+:::
+ 
+## Requirements of your M.Sc.FS. Desk Study:
+
+1. Your desk study should explore a question/topic that may be of interest to the forensic science community
+2. Your desk study should be **more than a summary of literature**, it should involve some **critical analysis and original thought**
+3. Five deliverables:
+      a. [Interim Report (November 30th, 2026)]{style="color: orange;"} 
+      b. [Interim Report Meeting (Week of December 7th-11th, 2026)]{style="color: orange;"} 
+      c. [Final Report (March 26, 2027)]{style="color: blue;"} 
+      d. [Digital Poster Presentation (April 3, 2027 - During 5003H seminar)]{style="color: blue;"}
+      e. [Final Digital Poster (April 3, 2027)]{style="color: blue;"}
+
+## Seminar Activity 
+
+::: {.nonincremental}
+1. Split into groups<br><br>
+2. Review the desk study material available on blackboard (10 minutes)<br><br>
+3. Question break (10 minutes)<br><br>
+4. Try to come up with questions that you *might be able to answer* with existing information (10 or 15 minutes)
+:::
+
+::: {.notes}
+- what are the reporting requirements for seized drugs in various jurisdictions? how has that changed with time? 
+- what have been the impact of event X on behaviour Y
 :::
