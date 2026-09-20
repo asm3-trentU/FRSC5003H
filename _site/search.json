@@ -18,7 +18,7 @@
     "href": "Lectures/Lecture1_Preliminaries.html#course-structure",
     "title": "Research Design and Forensic StatisticsCourse Preliminaries",
     "section": "Course Structure",
-    "text": "Course Structure\n\nMost Lectures:\n\n45-50 minutes for presentation about lecture topic; rest of the time to discuss lecture topics and other topics of interest, work on assignments/activities \n\nMost Seminars:\n\nOPEN WORK SESSIONS: Time to work on research activities, study for test, read optional papers, prepare for your placement, etc. \n\nAll lectures will be recorded."
+    "text": "Course Structure\n\nMost Lectures:\n\n45-50 minutes for presentation about lecture topic; rest of the time to discuss lecture topics and other topics of interest, work on assignments/activities \n\nMost Seminars:\n\nOPEN WORK SESSIONS: Time to work on research activities, study for test, read optional papers, prepare for your placement, etc. \n\nAll lectures with software demonstrations will be recorded."
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#assessments",
@@ -186,7 +186,42 @@
     "href": "Lectures/Lecture1_Preliminaries.html#section-4",
     "title": "Research Design and Forensic StatisticsCourse Preliminaries",
     "section": "",
-    "text": "Introducing your M.Sc.F.S. Desk Study"
+    "text": "“Research is formalized curiosity.It is poking and prying with a purpose.” - Zora Neale Hurston"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#what-is-a-desk-study",
+    "href": "Lectures/Lecture1_Preliminaries.html#what-is-a-desk-study",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "What is a desk study?",
+    "text": "What is a desk study?\n\nThe term desk study describes research that one can complete from a desk\n\nReviewing published literature (literature review)\nAnalyzing existing data sets (exploratory data analysis, meta-analysis) \nExamining government/public records, reports\nPress/News articles\nProduct description, online advertisements\nSocial media posts, Reddit…\nMaps, images, other time-stamped online activities…\n\n\n\n\nChallenges: verifying credibility of information, drawing conclusions “What is something you can investigate from your computer, without collecting new data?”"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#why-do-a-desk-study",
+    "href": "Lectures/Lecture1_Preliminaries.html#why-do-a-desk-study",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Why do a desk study?",
+    "text": "Why do a desk study?\n\nBecause this will help you develop/practice important skills \nBecause you have an opportunity to do what you want(ish)…\nBecause you will have accomplished something really personal, and have awesome outputs that you can share at the end of 8 months"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#how-do-you-start-a-desk-study",
+    "href": "Lectures/Lecture1_Preliminaries.html#how-do-you-start-a-desk-study",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "How do you start a desk study?",
+    "text": "How do you start a desk study?\n\nStart with a general question. Explore the topic.\nDevelop a more specific question. Explore the topic.\nDevelop a more refined question. Explore the topic … \n\nSeptember/October: Read (and document); be open to ideas\nNovember: Reflect on the question(s) that you want to explore\nDecember-March: Investigate your question(s), from your desk\nApril: Share your findings\n\n\n\n\nYour question will help dictate what “evidence” you need to explore\nYour evidence will help dictate what “analysis” needs to be done"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#requirements-of-your-m.sc.fs.-desk-study",
+    "href": "Lectures/Lecture1_Preliminaries.html#requirements-of-your-m.sc.fs.-desk-study",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Requirements of your M.Sc.FS. Desk Study:",
+    "text": "Requirements of your M.Sc.FS. Desk Study:\n\nYour desk study should explore a question/topic that may be of interest to the forensic science community\nYour desk study should be more than a summary of literature, it should involve some critical analysis and original thought\nFive deliverables:\n\nInterim Report (November 30th, 2026)\nInterim Report Meeting (Week of December 7th-11th, 2026)\nFinal Report (March 26, 2027)\nDigital Poster Presentation (April 3, 2027 - During 5003H seminar)\nFinal Digital Poster (April 3, 2027)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#seminar-activity",
+    "href": "Lectures/Lecture1_Preliminaries.html#seminar-activity",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Seminar Activity",
+    "text": "Seminar Activity\n\nSplit into groups\nReview the desk study material available on blackboard (10 minutes)\nQuestion break (10 minutes)\nTry to come up with questions that you might be able to answer with existing information (10 or 15 minutes)\n\n\n\nwhat are the reporting requirements for seized drugs in various jurisdictions? how has that changed with time?\nwhat have been the impact of event X on behaviour Y"
   },
   {
     "objectID": "LICENSE.html",
@@ -210,38 +245,66 @@
     "text": "Lectures\n\n1: Course Admin + Assignment Description"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#what-is-a-desk-study",
-    "href": "Lectures/Lecture1_Preliminaries.html#what-is-a-desk-study",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#problem-formulation",
+    "href": "Lectures/Lecture1_Preliminaries.html#problem-formulation",
     "title": "Research Design and Forensic StatisticsCourse Preliminaries",
-    "section": "What is a desk study?",
-    "text": "What is a desk study?\n\nThe term desk study describes research that one can complete from a desk\n\nReviewing published literature (literature review)\nAnalyzing existing data sets (exploratory data analysis, meta-analysis) \nExamining government/public records, reports\nPress/News articles\nProduct description, online advertisements\nSocial media posts, Reddit…\nMaps, images, other time-stamped online activities…\n\n\n\n\nChallenges: verifying credibility of information, drawing conclusions “What is something you can investigate from your computer, without collecting new data?”"
+    "section": "Problem Formulation",
+    "text": "Problem Formulation\n\n\n In 2016, I was assigned to “help law enforcement (forensic science labs) identify fentanyl analogs?”\n\n\nChallenge 1: Figure out why forensic science labs were unable to identify fentanyl analogs.\nChallenge 0: Figure out how forensic science labs identify any drugs."
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#why-do-a-desk-study",
-    "href": "Lectures/Lecture1_Preliminaries.html#why-do-a-desk-study",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#section-5",
+    "href": "Lectures/Lecture1_Preliminaries.html#section-5",
     "title": "Research Design and Forensic StatisticsCourse Preliminaries",
-    "section": "Why do a desk study?",
-    "text": "Why do a desk study?\n\nBecause this will help you develop/practice important skills \nBecause you have an opportunity to do what you want(ish)…\nBecause you will have accomplished something really personal, and have awesome outputs that you can share at the end of 8 months"
+    "section": "",
+    "text": "Introducing your M.Sc.F.S. Desk Study"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#how-do-you-start-a-desk-study",
-    "href": "Lectures/Lecture1_Preliminaries.html#how-do-you-start-a-desk-study",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#problem-formulation-1",
+    "href": "Lectures/Lecture1_Preliminaries.html#problem-formulation-1",
     "title": "Research Design and Forensic StatisticsCourse Preliminaries",
-    "section": "How do you start a desk study?",
-    "text": "How do you start a desk study?\n\nStart with a general question. Explore the topic.\nDevelop a more specific question. Explore the topic.\nDevelop a more refined question. Explore the topic … \n\nSeptember/October: Read and be open to ideas\nNovember: Come up with the question(s) that you want to explore\nDecember-March: Investigate your question(s), from your desk\nApril: Share your findings\n\n\n\n\nYour question will help dictate what “evidence” you need to explore\nYour evidence will help dictate what “analysis” needs to be done"
+    "section": "Problem Formulation",
+    "text": "Problem Formulation"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#requirements-of-your-m.sc.fs.-desk-study",
-    "href": "Lectures/Lecture1_Preliminaries.html#requirements-of-your-m.sc.fs.-desk-study",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#how-forensic-science-labs-identify-drugs",
+    "href": "Lectures/Lecture1_Preliminaries.html#how-forensic-science-labs-identify-drugs",
     "title": "Research Design and Forensic StatisticsCourse Preliminaries",
-    "section": "Requirements of your M.Sc.FS. Desk Study:",
-    "text": "Requirements of your M.Sc.FS. Desk Study:\n\nYour desk study should explore a question/topic that may be of interest to the forensic science community\nYour desk study should be more than a summary of literature, it should involve some critical analysis and original thought\nFive deliverables:\n\nInterim Report (November 30th, 2026)\nInterim Report Meeting (Week of December 7th-11th, 2026)\nFinal Report (March 26, 2027)\nDigital Poster Presentation (April 3, 2027 - During 5003H seminar)\nFinal Digital Poster (April 3, 2027)"
+    "section": "How forensic science labs identify drugs",
+    "text": "How forensic science labs identify drugs"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#activity",
-    "href": "Lectures/Lecture1_Preliminaries.html#activity",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#how-forensic-science-labs-identify-drugs-1",
+    "href": "Lectures/Lecture1_Preliminaries.html#how-forensic-science-labs-identify-drugs-1",
     "title": "Research Design and Forensic StatisticsCourse Preliminaries",
-    "section": "Activity",
-    "text": "Activity\n\nSplit into groups\nReview the desk study material available on blackboard (10 minutes)\nQuestion break (10 minutes)\nTry to come up with questions that you might be able to answer with existing information (10 or 15 minutes)\n\n\n\nwhat are the reporting requirements for seized drugs in various jurisdictions? how has that changed with time?\nwhat have been the impact of event X on behaviour Y"
+    "section": "How forensic science labs identify drugs",
+    "text": "How forensic science labs identify drugs\n \nMass spectral library searching only works if you have a representative reference spectrum of your analyte!!"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#mapping",
+    "href": "Lectures/Lecture1_Preliminaries.html#mapping",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Mapping",
+    "text": "Mapping\nProblem: Mass spectral library searching does not work when trying to identify novel compounds.\n\nSolution 1: Develop new analytical chemistry technique for novel compound identification\n\nI do not know how to develop analytical chemistry techniques.. this is outside of my wheel-house"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#mapping-1",
+    "href": "Lectures/Lecture1_Preliminaries.html#mapping-1",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Mapping",
+    "text": "Mapping\nProblem: Mass spectral library searching does not work when trying to identify novel compounds.\n\nSolution 2: Try to predict what future “fentanyl analogs” may be coming to the market; expand library to include novel compounds.\n\nSolution 2a: Synthesize novel fentanyl, take measurement\nSolution 2b: Generate predicted spectra using DFT or other comp. chem technique.\nSolution 2c: Generate predicted spectra using machine learning or other applied mathematics technique.\n\nHow do we verify the “truth” of the predicted spectrum? Only possible after novel fentanyl is synthesized and measured."
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#mapping-2",
+    "href": "Lectures/Lecture1_Preliminaries.html#mapping-2",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Mapping",
+    "text": "Mapping\nProblem: Mass spectral library searching does not work when trying to identify novel compounds.\n\nSolution 3: Can we develop a new search method that uses current library to find a “neighborhood” for a novel drug?\n\nSolution 3a: Revisit how we compute spectral similarity, using linear algebra and other applied mathematics techniques\n\nCan a “neighborhood” designation be enough evidence for prosecution?"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#solution-implementation-evaluation-dissemination",
+    "href": "Lectures/Lecture1_Preliminaries.html#solution-implementation-evaluation-dissemination",
+    "title": "Research Design and Forensic StatisticsCourse Preliminaries",
+    "section": "Solution Implementation, Evaluation, Dissemination",
+    "text": "Solution Implementation, Evaluation, Dissemination\n\nwrote an article describing an updated similarity measure (2017)\n\nbased on an interpretation technique that was described in the literature in the 1940s\n\nwrote an article describing the Fentanyl Classifier software tool for inferring structural substitutions based on mass spectral similarity with nearest neighbors for simple fentanyl analogs (2020)\nwrote an article describing the challenges with more complicated substitutions (2023)"
   }
 ]

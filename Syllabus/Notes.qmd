@@ -1,0 +1,5 @@
+
+
+
+- introduce the idea of a confusion matrix in classification algorithms
+- Show case a multi-factor analysis (ANOVA) with unbalanced data; considering interactions between factors (and thus non-indendence of data)

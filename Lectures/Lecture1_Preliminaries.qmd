@@ -3,7 +3,6 @@ title: "Research Design and Forensic Statistics<br><br>Course Preliminaries"
 date: ""
 format:
   revealjs:
-    theme: simple
     slide-number: true
     transition: fade
     incremental: true
@@ -168,8 +167,8 @@ The craft of research
 
 ## Reasons people conduct research
 
-- **Depth of knowledge:** need bleeding-edge understanding of a subject matter; are (or desire to be) an expert
-- **Solving problems:** need deeper understanding of a subject matter (and its limitations) in order to solve a problem
+- **Depth of knowledge:** need bleeding-edge understanding of a subject matter; are (or desire to be) an expert<br><br>
+- **Solving problems:** need deeper understanding of a subject matter (and its limitations) in order to solve a problem<br><br>
 - **Making decision:** need deeper understanding of a subject matter (and its limitations) in order to make justifiable decisions
 
 ## Methods vs Methodology
@@ -192,6 +191,79 @@ The craft of research
 ## {.center}
 
 ![](../figures/ResearchMethodology_FlowChart.png){width=50%}
+
+
+## Problem Formulation
+::::{.columns}
+
+:::{.column width="50%"}
+<br>
+In 2016, I was assigned to "help law enforcement (forensic science labs) identify fentanyl analogs?"<br><br>
+
+:::{style="font-size: 80%;"}
+- **Challenge 1:** Figure out why forensic science labs were unable to identify fentanyl analogs.
+
+- **Challenge 0:** Figure out how forensic science labs identify any drugs.
+:::
+
+:::
+
+:::{.column width="50%"}
+<br>
+![](../figures/FentanylGraph.png){width=100%}
+:::
+
+::::
+
+## How forensic science labs identify drugs
+<br><br>
+![](../figures/Simple_Drug_Analysis.png){width=100%}
+
+## How forensic science labs identify drugs
+<br><br>
+![](../figures/Simple_Drug_Analysis.png){width=100%}
+
+
+[Mass spectral library searching only works if you have a representative reference spectrum of your analyte!!]{style="color:blue;"}
+
+## Mapping
+
+Problem: Mass spectral library searching does not work when trying to identify novel compounds.<br><br>
+
+- Solution 1: Develop new analytical chemistry technique for novel compound identification
+    - [I do not know how to develop analytical chemistry techniques.. this is outside of my wheel-house]{style="color:red;"}
+
+## Mapping
+
+Problem: Mass spectral library searching does not work when trying to identify novel compounds.<br><br>
+
+- Solution 2: Try to predict what future "fentanyl analogs" may be coming to the market; expand library to include novel compounds.
+    - Solution 2a: [Synthesize novel fentanyl, take measurement]{style="color:red;"}
+    - Solution 2b: [Generate predicted spectra using DFT or other comp. chem technique.]{style="color:orange;"}
+    - Solution 2c: [Generate predicted spectra using machine learning or other applied mathematics technique.]{style="color:green;"}
+        - [How do we verify the "truth" of the predicted spectrum? Only possible after novel fentanyl is synthesized and measured.]{style="color:orange;"}
+
+
+## Mapping
+
+Problem: Mass spectral library searching does not work when trying to identify novel compounds.<br><br>
+
+- Solution 3: Can we develop a new search method that uses current library to find a "neighborhood" for a novel drug?
+    - Solution 3a: [Revisit how we compute spectral similarity, using linear algebra and other applied mathematics techniques]{style="color:green;"}
+        - [Can a "neighborhood" designation be enough evidence for prosecution?]{style="color:orange;"}
+        
+## Solution Implementation, Evaluation, Dissemination
+
+- wrote an article describing an updated similarity measure (2017)
+    - based on an interpretation technique that was described in the literature in the 1940s<br><br>
+- wrote an article describing the [Fentanyl Classifier](https://asm3-trentu.shinyapps.io/CRAFTS-LAB_FentanylClassifier/) software tool for inferring structural substitutions based on mass spectral similarity with nearest neighbors for simple fentanyl analogs (2020)<br><br>
+- wrote an article describing the challenges with more complicated substitutions (2023)<br><br>
+
+## {.center}
+
+![](../figures/ResearchMethodology_FlowChart.png){width=50%}
+
+
 
 ## The professional researcher's toolbox
 
